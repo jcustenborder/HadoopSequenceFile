@@ -1,5 +1,0 @@
-D:\source\junkcode\HadoopSequenceFile\HadoopSequenceFile\bin\Debug\HadoopSequenceFile.exe
-D:\source\junkcode\HadoopSequenceFile\HadoopSequenceFile\bin\Debug\HadoopSequenceFile.pdb
-D:\source\junkcode\HadoopSequenceFile\HadoopSequenceFile\obj\Debug\ResolveAssemblyReference.cache
-D:\source\junkcode\HadoopSequenceFile\HadoopSequenceFile\obj\Debug\HadoopSequenceFile.exe
-D:\source\junkcode\HadoopSequenceFile\HadoopSequenceFile\obj\Debug\HadoopSequenceFile.pdb
